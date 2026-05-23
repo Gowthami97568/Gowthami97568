@@ -60,11 +60,6 @@ Skilled in full stack development, creating scalable and real-world applications
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Gowthami97568&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
 ## 👀 Profile Views:
 ![](https://komarev.com/ghpvc/?username=Gowthami97568&color=blue)
 
