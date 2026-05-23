@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>Hi there! 👋 I'm **Gowthami Sanaka**, an enthusiastic **Artificial Intelligence & Data Science student** passionate about building smart and impactful solutions.
+### 💻 AI & Data Science | AI/ML | Full Stack Developer
+<br>Passionate about building intelligent systems using AI, Machine Learning, and Data Science.  
+Skilled in full stack development, creating scalable and real-world applications
 
 
 ## 🌐 Socials:
