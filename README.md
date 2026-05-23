@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gowthami
 
-💻 Aspiring AI/ML & Data Science Developer  
+💻 Aspiring Full Stack & AI/DS Developer  
 🌱 Currently learning Artificial Intelligence, Machine Learning & Data Science  
 🚀 Passionate about building smart systems and real-world projects  
 
