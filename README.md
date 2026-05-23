@@ -1,20 +1,79 @@
-# 💫 About Me:
-### 💻 AI & Data Science | AI/ML | Full Stack Developer
-<br>Passionate about building intelligent systems using AI, Machine Learning, and Data Science.  
-Skilled in full stack development, creating scalable and real-world applications
+# Hi 👋 I'm Gowthami Sanaka
 
+### 🚀 Aspiring AI/ML Engineer | Data Science Student | Full Stack Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sanaka-gowthami-4128ba2b4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanakagowthami94@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gowthami97568&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gowthami97568&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gowthami97568&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Passionate about building intelligent systems using AI, Machine Learning, and Data Science.  
+Skilled in full stack development, creating scalable and real-world applications.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Gowthami97568&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanaka-gowthami-4128ba2b4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanakagowthami94@gmail.com)
+
+---
+
+## 💻 Tech Stack:
+
+### 🤖 AI / ML & Data Science
+![Artificial Intelligence](https://img.shields.io/badge/AI-00C853?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-E91E63?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🤖 AI/DS Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### ⚙️ Backend & Database
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gowthami97568&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=Gowthami97568&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthami97568&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Gowthami97568&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+## 👀 Profile Views:
+![](https://komarev.com/ghpvc/?username=Gowthami97568&color=blue)
+
+---
+
+## ✨ Let's Connect:
+- 💼 LinkedIn: https://linkedin.com/in/sanaka-gowthami-4128ba2b4  
+- 📧 Email: sanakagowthami94@gmail.com  
+
+---
+
+⭐ *"Always learning, always building, always improving."*
