@@ -67,7 +67,8 @@ Skilled in full stack development, creating scalable and real-world applications
 
 ## ✨ Let's Connect:
 - 💼 LinkedIn: https://linkedin.com/in/sanaka-gowthami-4128ba2b4  
-- 📧 Email: sanakagowthami94@gmail.com  
+- 📧 Email: sanakagowthami94@gmail.com
+- https://github.com/Gowthami97568
 
 ---
 
