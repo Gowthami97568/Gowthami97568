@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gowthami Sanaka
 
-### 🚀 Aspiring | Full stack Developer | AI/ML Engineer | Data Science | 
+### 🚀 Aspiring | Full Stack Developer | AI/ML Engineer | Data Science | 
 
 Passionate about building intelligent systems using AI, Machine Learning, and Data Science.  
 Skilled in full stack development, creating scalable and real-world applications.
